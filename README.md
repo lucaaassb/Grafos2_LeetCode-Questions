@@ -18,7 +18,7 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)                                          | Difícil |
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)                                                                                    | Média   |
 | [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)                                                | Difícil |
-| [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/)                                                 | Difícil |
+
 
 ## Vídeo
 
