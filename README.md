@@ -29,45 +29,46 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 Explicação: 
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/explicacaoLongest.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/explicacao_quest1.png)<br>
 
 Caso 1:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Longest.png)<br>
-
-Caso 2:
-
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Longest.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case1_quest1.png)<br>
 
 
 ### [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
 
 Explicação: 
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/explicacaoKeys.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/explicacao_quest2.png)<br>
 
 Caso 1:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Keys.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case1_quest2.png)<br>
+
+Caso 2:
+
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case2_quest2.png)<br>
 
 
 ### [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
 
 Explicação: 
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/explicacaoShortest.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/explicacao1_quest3.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/explicacao2_quest3.png)<br>
 
 Caso 1:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Shortest.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case1_quest3.png)<br>
 
 Caso 2:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Shortest.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case2_quest3.png)<br>
 
 Caso 3:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Shortest.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/Grafos2_LeetCode-Questions/blob/master/assets/case3_quest3.png)<br>
 
 
 ## Instalação 
