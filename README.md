@@ -22,7 +22,7 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 ## Vídeo
 
-[Explicação]()
+[Explicação](https://youtu.be/eWz7-AGuCjY)
 
 ## Screenshots
 ### [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)   
