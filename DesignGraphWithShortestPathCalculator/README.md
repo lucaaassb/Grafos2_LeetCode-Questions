@@ -4,7 +4,7 @@
 Design Graph With Shortest Path Calculator
 
 ## Descrição
-Um sistema dinâmico de grafos em C# que permite adicionar arestas e encontrar o caminho mais curto entre nós com cálculo eficiente de rotas.
+Um algoritmo dinâmico de grafos que permite adicionar arestas e encontrar o caminho mais curto entre nós com cálculo eficiente de rotas.
 
 ## Funcionalidades
 - Criar grafos com múltiplos nós

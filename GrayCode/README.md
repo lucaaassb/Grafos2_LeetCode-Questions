@@ -4,7 +4,7 @@
 Gray Code
 
 ## Descrição
-Um sistema em C# para gerar sequências de código Gray, uma sequência numérica única onde números adjacentes diferem em apenas um bit binário.
+Um algoritmo para gerar uma sequência numérica única onde números adjacentes diferem em apenas um bit binário.
 
 ## Funcionalidades
 - Gerar sequências de código Gray para `n` bits

@@ -4,7 +4,7 @@
 Remove Max Number of Edges to Keep Graph Fully Traversable
 
 ## Descrição
-Um sistema em C# para determinar o número máximo de arestas que podem ser removidas de um grafo, mantendo-o totalmente transitável para Alice e Bob.
+Um algoritmo para determinar o número máximo de arestas que podem ser removidas de um grafo, mantendo-o totalmente transitável para Alice e Bob.
 
 ## Funcionalidades
 - Processar grafo com arestas de três tipos diferentes
