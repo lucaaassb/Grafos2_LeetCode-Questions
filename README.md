@@ -25,7 +25,7 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 [Explicação](https://youtu.be/zvA0crGgh_U)
 
 ## Screenshots
-### [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)    
+### [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)   
 
 Explicação: 
 
@@ -39,11 +39,8 @@ Caso 2:
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Longest.png)<br>
 
-Caso 3:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case3_Longest.png)<br>
-
-### [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)   
+### [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
 
 Explicação: 
 
@@ -53,11 +50,8 @@ Caso 1:
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Keys.png)<br>
 
-Caso 2:
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Keys.png)<br>
-
-### [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)    
+### [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
 
 Explicação: 
 
@@ -68,6 +62,10 @@ Caso 1:
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Shortest.png)<br>
 
 Caso 2:
+
+![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Shortest.png)<br>
+
+Caso 3:
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Shortest.png)<br>
 
