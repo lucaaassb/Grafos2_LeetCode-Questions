@@ -13,11 +13,11 @@
 Resoluções de questões de níveis variados (Médio e Difícil) contemplando os conteúdos aprendidos em sala de aula sobre a matéria de Grafos 2.
 
 ## Questões
-| Nome                                                                                                                                                                | Nível   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)                                          | Difícil |
-| [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)                                                                                    | Média   |
-| [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)                                                | Difícil |
+| Nome                                                                                                                                      | Nível   |
+|-------------------------------------------------------------------------------------------------------------------------------------------| ------- |
+| [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/) | Difícil |
+| [89. Gray Code](https://leetcode.com/problems/gray-code/description/)                                                                     | Média   |
+| [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) | Difícil |
 
 
 ## Vídeo
@@ -71,19 +71,6 @@ Caso 2:
 
 ![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Shortest.png)<br>
 
-### [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/)  
-
-Explicação: 
-
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/explicacaoNumber.png)<br>
-
-Caso 1:
-
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case1_Number.png)<br>
-
-Caso 2:
-
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCode-Questions/blob/master/assets/case2_Number.png)<br>
 
 ## Instalação 
 **Linguagem**: C#<br>
